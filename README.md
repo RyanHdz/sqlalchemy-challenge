@@ -1,1 +1,1 @@
-# sqlalchemy-challenge
+In this challenge, we conducted a climate analysis of Hawaii. We observed the temperatures of different dates in Hawaii, as well as building graphs to get a visual of the temperature inccreases/decreases. We also made a climate app that shows us all relevant information regarding the temperature in Hawaii. 
